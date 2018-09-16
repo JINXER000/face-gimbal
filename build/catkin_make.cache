@@ -1,0 +1,2 @@
+face_tracker_control:face_tracker_pkg
+-DCATKIN_DEVEL_PREFIX=/home/lumos/robomaster_cv/RM-tutorial/cppprojects/face-gimbal/devel -DCMAKE_INSTALL_PREFIX=/home/lumos/robomaster_cv/RM-tutorial/cppprojects/face-gimbal/install -G Unix Makefiles
